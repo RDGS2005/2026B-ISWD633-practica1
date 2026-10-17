@@ -1,3 +1,5 @@
 # COMPLETAR  
 Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
 Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+
+Aprendí sobre volúmenes en Docker: como crear un directorio compartido entre el contenedor y el host para persistir datos, además de crear volúmenes con nombre o anónimos gestionados por Docker. Además aprendí sobre diferentes herramientas como Nginx, MySQL, Wordpress, PostgreSQL, pgAdmin, Drupal; los puertos que utilizan, las variables de entorno que necesitan y sus directorios relevantes. Sobre todo aprendí buenas prácticas como considerar la importancia de los datos en un volumen antes de eliminarlo y eliminar primero los contenedores antes que los volúmenes que utilizan de ser necesario.
